@@ -14,5 +14,6 @@ num1++
 num1--
 
 parseInt(num3)
+x = num3.toString()
 
-console.log(num3)
+console.log(x)
